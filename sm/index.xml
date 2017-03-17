@@ -2,117 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sms on A Gene Expression Atlas for Adult Schistosomes and Their Gonads</title>
-    <link>/sm/index.xml</link>
+    <link>/geneexp/sm/index.xml</link>
     <description>Recent content in Sms on A Gene Expression Atlas for Adult Schistosomes and Their Gonads</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/sm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/geneexp/sm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Smp_900000</title>
-      <link>/sm/Smp_900000.1/</link>
+      <title>Smp_190020</title>
+      <link>/geneexp/sm/Smp_190020.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900000.1/</guid>
+      <guid>/geneexp/sm/Smp_190020.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900010</title>
-      <link>/sm/Smp_900010.1/</link>
+      <title>Smp_190050</title>
+      <link>/geneexp/sm/Smp_190050.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900010.1/</guid>
+      <guid>/geneexp/sm/Smp_190050.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900020</title>
-      <link>/sm/Smp_900020.1/</link>
+      <title>Smp_190070</title>
+      <link>/geneexp/sm/Smp_190070.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900020.1/</guid>
+      <guid>/geneexp/sm/Smp_190070.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900030</title>
-      <link>/sm/Smp_900030.1/</link>
+      <title>Smp_190120</title>
+      <link>/geneexp/sm/Smp_190120.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900030.1/</guid>
+      <guid>/geneexp/sm/Smp_190120.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900040</title>
-      <link>/sm/Smp_900040.1/</link>
+      <title>Smp_190140</title>
+      <link>/geneexp/sm/Smp_190140.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900040.1/</guid>
+      <guid>/geneexp/sm/Smp_190140.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900050</title>
-      <link>/sm/Smp_900050.1/</link>
+      <title>Smp_190300</title>
+      <link>/geneexp/sm/Smp_190300.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900050.1/</guid>
+      <guid>/geneexp/sm/Smp_190300.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900060</title>
-      <link>/sm/Smp_900060.1/</link>
+      <title>Smp_190370</title>
+      <link>/geneexp/sm/Smp_190370.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900060.1/</guid>
+      <guid>/geneexp/sm/Smp_190370.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900070</title>
-      <link>/sm/Smp_900070.1/</link>
+      <title>Smp_190390</title>
+      <link>/geneexp/sm/Smp_190390.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900070.1/</guid>
+      <guid>/geneexp/sm/Smp_190390.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900080</title>
-      <link>/sm/Smp_900080.1/</link>
+      <title>Smp_190520</title>
+      <link>/geneexp/sm/Smp_190520.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900080.1/</guid>
+      <guid>/geneexp/sm/Smp_190520.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900090</title>
-      <link>/sm/Smp_900090.1/</link>
+      <title>Smp_190530</title>
+      <link>/geneexp/sm/Smp_190530.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900090.1/</guid>
+      <guid>/geneexp/sm/Smp_190530.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900100</title>
-      <link>/sm/Smp_900100.1/</link>
+      <title>Smp_190540</title>
+      <link>/geneexp/sm/Smp_190540.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900100.1/</guid>
+      <guid>/geneexp/sm/Smp_190540.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Smp_900110</title>
-      <link>/sm/Smp_900110.1/</link>
+      <title>Smp_190640</title>
+      <link>/geneexp/sm/Smp_190640.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sm/Smp_900110.1/</guid>
+      <guid>/geneexp/sm/Smp_190640.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smp_190710</title>
+      <link>/geneexp/sm/Smp_190710.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/geneexp/sm/Smp_190710.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smp_190720</title>
+      <link>/geneexp/sm/Smp_190720.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/geneexp/sm/Smp_190720.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smp_190740</title>
+      <link>/geneexp/sm/Smp_190740.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/geneexp/sm/Smp_190740.1/</guid>
       <description></description>
     </item>
     
